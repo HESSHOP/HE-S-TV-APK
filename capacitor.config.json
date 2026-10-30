@@ -1,0 +1,13 @@
+{
+  "appId": "com.hestv.app",
+  "appName": "HESTV",
+  "webDir": "www",
+  "server": {
+    "url": "https://he-s-tv.vercel.app/",
+    "androidScheme": "https",
+    "cleartext": false,
+    "allowNavigation": ["he-s-tv.vercel.app"],
+    "errorPath": "offline.html"
+  },
+  "backgroundColor": "#000000"
+}
